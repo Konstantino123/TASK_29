@@ -1,0 +1,15 @@
+D:\USERDATA\Desktop\хочу стать умней\TASK_29\TASK_29\bin\Debug\net6.0\TASK_29.exe
+D:\USERDATA\Desktop\хочу стать умней\TASK_29\TASK_29\bin\Debug\net6.0\TASK_29.deps.json
+D:\USERDATA\Desktop\хочу стать умней\TASK_29\TASK_29\bin\Debug\net6.0\TASK_29.runtimeconfig.json
+D:\USERDATA\Desktop\хочу стать умней\TASK_29\TASK_29\bin\Debug\net6.0\TASK_29.dll
+D:\USERDATA\Desktop\хочу стать умней\TASK_29\TASK_29\bin\Debug\net6.0\TASK_29.pdb
+D:\USERDATA\Desktop\хочу стать умней\TASK_29\TASK_29\obj\Debug\net6.0\TASK_29.csproj.AssemblyReference.cache
+D:\USERDATA\Desktop\хочу стать умней\TASK_29\TASK_29\obj\Debug\net6.0\TASK_29.GeneratedMSBuildEditorConfig.editorconfig
+D:\USERDATA\Desktop\хочу стать умней\TASK_29\TASK_29\obj\Debug\net6.0\TASK_29.AssemblyInfoInputs.cache
+D:\USERDATA\Desktop\хочу стать умней\TASK_29\TASK_29\obj\Debug\net6.0\TASK_29.AssemblyInfo.cs
+D:\USERDATA\Desktop\хочу стать умней\TASK_29\TASK_29\obj\Debug\net6.0\TASK_29.csproj.CoreCompileInputs.cache
+D:\USERDATA\Desktop\хочу стать умней\TASK_29\TASK_29\obj\Debug\net6.0\TASK_29.dll
+D:\USERDATA\Desktop\хочу стать умней\TASK_29\TASK_29\obj\Debug\net6.0\refint\TASK_29.dll
+D:\USERDATA\Desktop\хочу стать умней\TASK_29\TASK_29\obj\Debug\net6.0\TASK_29.pdb
+D:\USERDATA\Desktop\хочу стать умней\TASK_29\TASK_29\obj\Debug\net6.0\TASK_29.genruntimeconfig.cache
+D:\USERDATA\Desktop\хочу стать умней\TASK_29\TASK_29\obj\Debug\net6.0\ref\TASK_29.dll
